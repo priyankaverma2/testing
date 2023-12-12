@@ -1,8 +1,12 @@
-**note: `Jmeter` performance analysis Screenshots are in `screenshots` folder.**
+
+# setup git repo
+1. git clone https://github.com/priyankaverma2/testing.git
+2. git branch : 1. master
+                2. dev1
+                3. dev2
 
 # Setup the code
 1. install node_module with `npm install` 
 2. run the application with `npm start`
-3. run tests with npm `run test`
-4. coverage with report npm run coverage & screenshots are attached in `Screenshots` folder.
-5. selenium test with node `selenium.test.js`
+
+*screenshots are in screenshots folder*
