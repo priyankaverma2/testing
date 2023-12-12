@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1701755627084" clover="3.2.0">
+  <project timestamp="1701755627084" name="All files">
+    <metrics statements="22" coveredstatements="22" conditionals="2" coveredconditionals="2" methods="10" coveredmethods="10" elements="34" coveredelements="34" complexity="0" loc="22" ncloc="22" packages="2" files="4" classes="4"/>
+    <package name="src">
+      <metrics statements="8" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+      <file name="App.jsx" path="/home/priyanka.b@npci.org.in/Desktop/Others/Testing/note-taking-app/src/App.jsx">
+        <metrics statements="8" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="7" count="6" type="stmt"/>
+        <line num="9" count="6" type="stmt"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="13" count="6" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="19" count="6" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.Components">
+      <metrics statements="14" coveredstatements="14" conditionals="2" coveredconditionals="2" methods="7" coveredmethods="7"/>
+      <file name="NewNoteForm.jsx" path="/home/priyanka.b@npci.org.in/Desktop/Others/Testing/note-taking-app/src/Components/NewNoteForm.jsx">
+        <metrics statements="8" coveredstatements="8" conditionals="2" coveredconditionals="2" methods="3" coveredmethods="3"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="4" count="12" type="stmt"/>
+        <line num="6" count="12" type="stmt"/>
+        <line num="7" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="8" count="3" type="stmt"/>
+        <line num="9" count="3" type="stmt"/>
+        <line num="13" count="12" type="stmt"/>
+        <line num="18" count="3" type="stmt"/>
+      </file>
+      <file name="NoteItem.jsx" path="/home/priyanka.b@npci.org.in/Desktop/Others/Testing/note-taking-app/src/Components/NoteItem.jsx">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="3" count="3" type="stmt"/>
+        <line num="5" count="8" type="stmt"/>
+      </file>
+      <file name="NoteList.jsx" path="/home/priyanka.b@npci.org.in/Desktop/Others/Testing/note-taking-app/src/Components/NoteList.jsx">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="6" count="9" type="stmt"/>
+        <line num="10" count="6" type="stmt"/>
+        <line num="13" count="3" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
