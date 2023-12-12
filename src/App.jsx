@@ -4,6 +4,7 @@ import NewNoteForm from "./Components/NewNoteForm";
 import NoteList from "./Components/NoteList";
 
 function App() {
+  console.log("this is testing app from dev2 branch");
   const [notes, setNotes] = useState([]);
 
   const addNote = (newNote) => {
