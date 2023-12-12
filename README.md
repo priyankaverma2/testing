@@ -9,4 +9,4 @@
 1. install node_module with `npm install` 
 2. run the application with `npm start`
 
-*screenshots are in screenshots folder*
+*screenshots are in `screenshots` folder*
